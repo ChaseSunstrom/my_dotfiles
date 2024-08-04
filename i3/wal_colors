@@ -1,4 +1,4 @@
-set $bg_color #060E19
-set $text_color #595F93
-client.focused #060E19 #595F93 #060E19 #595F93
-client.unfocused #060E19 #595F93 #060E19 #595F93
+set $bg_color #101010
+set $text_color #A8A390
+client.focused #101010 #A8A390 #101010 #A8A390
+client.unfocused #101010 #A8A390 #101010 #A8A390
